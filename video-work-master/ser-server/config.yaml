@@ -1,0 +1,10 @@
+Mysql:
+  User: "root"
+  Password: "root"
+  Host: "127.0.0.1"
+  Port: 3306
+  Date: "zk"
+Redis:
+  Addr: "127.0.0.1:6379"
+  Password: ""
+  DB: 0
